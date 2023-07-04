@@ -8,6 +8,6 @@
 
 ![image](https://github.com/m1lanaz/Resturant-site/assets/58622630/e41d53cc-a7ae-4f34-8a20-a0afa08e7e5c)
 
-#Functionality
+# Functionality
 📌 Responsive design\
-📌 Custom scrollbar animations\
+📌 Custom scrollbar animations
